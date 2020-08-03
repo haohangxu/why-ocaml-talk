@@ -1,0 +1,2 @@
+(executables
+ (names test_idiomatic test_non_idiomatic))
